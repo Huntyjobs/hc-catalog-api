@@ -1,0 +1,9 @@
+*.json
+.idea
+.github
+.gitignore
+.python-version
+Dockerfile
+README.md
+docker-compose.yml
+venv

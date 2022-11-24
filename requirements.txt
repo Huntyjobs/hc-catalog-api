@@ -1,0 +1,11 @@
+cachetools==5.0.0
+fastapi==0.78.0
+google-auth==2.6.6
+google-cloud-storage==2.3.0
+pydantic==1.9.0
+python-dotenv==0.20.0
+requests==2.27.1
+starlette==0.19.1
+typing_extensions==4.2.0
+urllib3==1.26.9
+uvicorn==0.17.6
